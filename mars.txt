@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 the planet is red1
 this is the planet mars lololololololol2
 Martians live here3
@@ -6,3 +7,14 @@ also we have like 5 different rovers that we forgot about on its surface5
 =======6
 well this is my change to the file7
 cool8
+=======
+the planet is red
+this is the planet mars lololololololol
+The movie The Martian takes place here
+Also there is water
+also we have like 5 different rovers that we forgot about on its surface
+sandstorms ravage the surface
+=======
+well this is my change to the file
+cool
+>>>>>>> d728aac95c515c27d162c12d2fe600ed3d05ab7c
